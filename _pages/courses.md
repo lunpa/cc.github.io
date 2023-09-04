@@ -14,11 +14,9 @@ Organize your courses by years, topics, or universities, however you like! -->
 # Teaching Assistants:
 ----
 
-ELEC 2350: Computer Organization (Spring 2023)
-
 ELEC 4010O: Practical Considerations of Analog Integrated Circuit Design (Fall 2023)
 
-
+ELEC 2350: Computer Organization (Spring 2023)
 
 # Postgraduate courses:
 ----
